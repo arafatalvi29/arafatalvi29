@@ -3,6 +3,7 @@
 # Hi, I'm Arafat Hossain Alvi 👋
 
 ### Computer Science & Engineering Student
+
 ### Exploring AI • Web Development • Software Engineering
 
 > **I build, experiment, and learn through technology.**
@@ -11,8 +12,9 @@ I'm a Computer Science & Engineering student interested in Artificial Intelligen
 
 <br>
 
-[![JIPLANCE](https://img.shields.io/badge/JIPLANCE-View_Project-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafatalvi29/jiplance)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafatalvi29.github.io/arafathossainalvi/)
+[![JIPLANCE](https://img.shields.io/badge/JIPLANCE-LIVE_WEBSITE-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jiplance.vercel.app)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafatalvi29/jiplance)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafatalvi29.github.io/arafathossainalvi/)
 
 </div>
 
@@ -22,9 +24,9 @@ I'm a Computer Science & Engineering student interested in Artificial Intelligen
 
 - 🎓 Studying **Computer Science & Engineering**
 - 🤖 Exploring **Artificial Intelligence**
-- 💻 Learning modern **Web & Software Development**
+- 💻 Learning **Web & Software Development**
 - 🧠 Improving my **problem-solving and programming skills**
-- 🚀 Building practical projects
+- 🚀 Building practical real-world projects
 - 🌱 Continuously learning new technologies
 - 📍 Based in **Dhaka, Bangladesh**
 
@@ -36,28 +38,31 @@ I'm a Computer Science & Engineering student interested in Artificial Intelligen
 
 A modern e-commerce platform focused on books and children's products.
 
-**Current focus:**
+**Current features & development areas:**
 
-- Product management
-- Customer accounts
+- Product Management
+- Customer Accounts
+- Authentication
 - Wishlist
 - Reviews
-- Coupons
-- Checkout system
-- Admin dashboard
-- Database & authentication
+- Coupon System
+- Checkout
+- Admin Dashboard
+- Stock Management
+- Database Security
 
-**Tech:** `Next.js` `Supabase`
+**Tech Stack:**  
+`Next.js` `Supabase`
 
-🔗 [View JIPLANCE on GitHub](https://github.com/arafatalvi29/jiplance)
+🌐 [**Live Website**](https://jiplance.vercel.app) • 💻 [**Source Code**](https://github.com/arafatalvi29/jiplance)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my projects, skills, certificates, and development journey.
+My personal developer portfolio showcasing my projects, skills, certificates, interests, and development journey.
 
-🔗 [Visit My Portfolio](https://arafatalvi29.github.io/arafathossainalvi/)
+🌐 [**Visit Portfolio**](https://arafatalvi29.github.io/arafathossainalvi/)
 
 ---
 
@@ -82,11 +87,19 @@ My personal portfolio website showcasing my projects, skills, certificates, and 
 Computer Science Journey
 │
 ├── 🐍 Python & Programming
+│
 ├── 🧩 Problem Solving
+│
 ├── 🌐 Web Development
+│   ├── Frontend
+│   └── Backend
+│
 ├── 🗄️ Databases
-├── 🤖 Artificial Intelligence
+│
 ├── 📊 Data Structures & Algorithms
+│
+├── 🤖 Artificial Intelligence
+│
 └── 💻 Software Development
 ```
 
@@ -94,29 +107,41 @@ Computer Science Journey
 
 ## 📌 Featured Projects
 
-### 🛒 JIPLANCE
+### 🛒 JIPLANCE — E-commerce Platform
 
-A real-world e-commerce project featuring authentication, product management, wishlist, reviews, coupons, checkout, and admin functionality.
+A real-world e-commerce platform designed for books and children's products.
 
-**Status:** 🚧 Currently under development
+**Key Features**
+
+- User Authentication
+- Product Management
+- Wishlist
+- Reviews
+- Coupons & Discounts
+- Shopping & Checkout
+- Admin Management
+- Stock Management
+- Secure Database Integration
 
 **Built with:** `Next.js` `Supabase`
 
-🔗 [View Repository](https://github.com/arafatalvi29/jiplance)
+🌐 [**Live Website**](https://jiplance.vercel.app) • 💻 [**GitHub Repository**](https://github.com/arafatalvi29/jiplance)
+
+> 🚧 JIPLANCE is actively under development.
 
 ---
 
 ### 🌐 Personal Portfolio
 
-A personal website designed to showcase my projects, skills, certificates, and development journey.
+A personal website built to showcase my development journey, projects, skills, certificates, and future work.
 
-🔗 [Live Website](https://arafatalvi29.github.io/arafathossainalvi/)
+🌐 [**Live Portfolio**](https://arafatalvi29.github.io/arafathossainalvi/)
 
 ---
 
 ### 🤖 AI & Python Projects
 
-I'm currently learning and building small projects with Python and Artificial Intelligence.
+I'm currently learning Python and Artificial Intelligence while developing small practical projects.
 
 ```python
 while learning:
@@ -125,7 +150,27 @@ while learning:
     improve_skills()
 ```
 
-More projects coming soon. 🚀
+**More projects coming soon. 🚀**
+
+---
+
+## 🗺️ Learning Roadmap
+
+```text
+Programming Fundamentals
+        ↓
+Python Development
+        ↓
+Web Development
+        ↓
+Data Structures & Algorithms
+        ↓
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Advanced Software Projects
+```
 
 ---
 
@@ -141,15 +186,26 @@ More projects coming soon. 🚀
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatalvi29&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
 ## 🎯 Current Goals
 
-- Build more real-world software projects
-- Strengthen programming fundamentals
-- Improve problem-solving skills
-- Learn Artificial Intelligence step by step
-- Explore Machine Learning
-- Improve full-stack development skills
-- Contribute to open-source projects
+- 🚀 Build more real-world software projects
+- 🧠 Strengthen programming fundamentals
+- 🧩 Improve problem-solving skills
+- 🤖 Learn Artificial Intelligence step by step
+- 📊 Explore Machine Learning
+- 🌐 Improve full-stack development skills
+- 🔓 Contribute to open-source projects
+- 💡 Build technology that solves practical problems
 
 ---
 
@@ -157,23 +213,19 @@ More projects coming soon. 🚀
 
 > **Learn → Build → Break → Fix → Improve → Repeat**
 
-I believe the best way to understand technology is by building real projects and learning from the process.
+I believe the best way to understand technology is not only by studying it, but by building real projects and continuously improving them.
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://arafatalvi29.github.io/arafathossainalvi/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+[![JIPLANCE](https://img.shields.io/badge/JIPLANCE-Live_Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jiplance.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafatalvi29.github.io/arafathossainalvi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafatalvi29)
 
-<a href="https://github.com/arafatalvi29">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -181,6 +233,6 @@ I believe the best way to understand technology is by building real projects and
 
 ### 💻 Turning ideas into code, one project at a time.
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile! ⭐**
 
 </div>
